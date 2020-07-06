@@ -1,0 +1,19 @@
+*************************************************************
+FileName = AT long bus (13.3 x 4.2 inches).GBR
+AutoAperture = True
+*************************************************************
+Generating : TopLayer
+      File : AT long bus (13.3 x 4.2 inches).GTL
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
